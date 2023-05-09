@@ -1,0 +1,14 @@
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\movieLibrary\bin\Debug\netcoreapp3.1\movieLibrary.exe
+C:\Users\mahmo\source\repos\movieLibrary\bin\Debug\netcoreapp3.1\movieLibrary.deps.json
+C:\Users\mahmo\source\repos\movieLibrary\bin\Debug\netcoreapp3.1\movieLibrary.runtimeconfig.json
+C:\Users\mahmo\source\repos\movieLibrary\bin\Debug\netcoreapp3.1\movieLibrary.runtimeconfig.dev.json
+C:\Users\mahmo\source\repos\movieLibrary\bin\Debug\netcoreapp3.1\movieLibrary.dll
+C:\Users\mahmo\source\repos\movieLibrary\bin\Debug\netcoreapp3.1\movieLibrary.pdb
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.dll
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.pdb
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.genruntimeconfig.cache
+C:\Users\mahmo\source\repos\movieLibrary\obj\Debug\netcoreapp3.1\movieLibrary.csproj.AssemblyReference.cache
